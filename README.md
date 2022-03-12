@@ -1,6 +1,6 @@
 # About 👋 [JAGGU](https://jaggu.guru)
 
-Jaggu is a second year grad. Enthiusiastic python,c programmer and a freelancing web developer. At present, He is pursuing his undergraduation in Computer Science at Gokaraju Rangaraju Institute Of Technology HYDERABAD-INDIA.
+Jaggu is a third year grad. Enthiusiastic python,c programmer and a freelancing web developer. At present, He is pursuing his undergraduation in Computer Science at Gokaraju Rangaraju Institute Of Technology HYDERABAD-INDIA.
 
 
 [![jaggu509 github stats](https://github-readme-stats.vercel.app/api?username=jaggu509)](https://github.com/jaggu509/github-readme-stats)

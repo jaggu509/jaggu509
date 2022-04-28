@@ -1,4 +1,4 @@
-# About 👋 [JAGGU](https://jaggu.guru)
+# About 👋 Jayanth
 
 Jaggu is a third year grad. Enthiusiastic python,c programmer and a freelancing web developer. At present, He is pursuing his undergraduation in Computer Science at Gokaraju Rangaraju Institute Of Technology HYDERABAD-INDIA.
 

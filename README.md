@@ -1,6 +1,6 @@
 # About 👋 Jayanth
 
-Jaggu is a third year grad. Enthiusiastic python,c programmer and a freelancing web developer. At present, He is pursuing his undergraduation in Computer Science at Gokaraju Rangaraju Institute Of Technology HYDERABAD-INDIA.
+Jayanth is a third year grad. Enthiusiastic python,java programmer and love to work computer-vision and Deep Learning field. At present, He is pursuing his undergraduation in Computer Science at Gokaraju Rangaraju Institute Of Technology HYDERABAD-INDIA.
 
 
 [![jaggu509 github stats](https://github-readme-stats.vercel.app/api?username=jaggu509)](https://github.com/jaggu509/github-readme-stats)
